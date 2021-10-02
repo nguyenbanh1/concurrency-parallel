@@ -1,0 +1,1 @@
+JMH S 20 test.TestApplication S 46 test.jmh_generated.TestApplication_add_jmhTest S 3 add S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E M 1 10 iterations 5 8 xAAMAADA 8 yAAMAADA 8 zAAMAADA 8 1AAMAADA 16 xAAMAADAwAA===== E E E 
